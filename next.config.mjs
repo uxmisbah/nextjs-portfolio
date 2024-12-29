@@ -5,9 +5,11 @@ const nextConfig = {
         {
           protocol: "https",
           hostname: "images.pexels.com",
-          module.exports = {
+                          },
+              ],
+            },
             reactStrictMode: true,
-          }          
+          };      
         },
       ],
     },
