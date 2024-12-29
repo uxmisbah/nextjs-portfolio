@@ -5,14 +5,10 @@ const nextConfig = {
         {
           protocol: "https",
           hostname: "images.pexels.com",
-                          },
+                },
               ],
             },
             reactStrictMode: true,
-          };      
-        },
-      ],
-    },
   };
   
   export default nextConfig;
