@@ -11,4 +11,4 @@ const nextConfig = {
             reactStrictMode: true,
   };
   
-  export default nextConfig;
+return nextConfig
