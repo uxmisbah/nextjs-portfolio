@@ -30,7 +30,7 @@ const Homepage = () => {
     <p className="md:text-xl">
     {/* Hi 👋, My full name is Misbah Ul Hasan
     but you can call me Misbah. And I love Biryani ❤️ */}
-      Hi 👋, My name is Misbah and welcome to my digital canvas, where innovation and creativity converge.
+      Hi 👋 My name is Misbah and welcome to my digital canvas where innovation and creativity converge.
     </p>
     {/* BUTTONS */}
     <div className="w-full flex gap-4">
