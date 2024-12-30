@@ -327,6 +327,6 @@ const AboutPage = () => {
       </div>
     </motion.div>
   );
-};
+}
 
 export default AboutPage;

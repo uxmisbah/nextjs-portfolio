@@ -45,6 +45,6 @@ const Homepage = () => {
     </div>
     </motion.div>
   );
-};
+}
 
 export default Homepage;

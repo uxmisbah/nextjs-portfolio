@@ -24,7 +24,7 @@ const Navbar = () => {
       rotate:45,
       backgroundColor:"rgb(255,255,255)",
     },
-  };
+  }
   const centerVariants={
     closed:{
       rotate:1,
@@ -32,7 +32,7 @@ const Navbar = () => {
     opened:{
      opacity:0,
     },
-  };
+  }
   const bottomVariants={
     closed:{
       rotate:0,
@@ -41,7 +41,7 @@ const Navbar = () => {
       rotate: -45,
       backgroundColor:"rgb(255,255,255)",
     },
-  };
+  }
 
   const listVariants={
     closed: {
@@ -54,7 +54,7 @@ const Navbar = () => {
         staggerChildren: 0.2,
       },
     },
-  };
+  }
 
   const listItemVariants={
     closed: {
@@ -65,7 +65,7 @@ const Navbar = () => {
       x: 0,
       opacity: 1,
     },
-  };
+  }
 
 
   return (
@@ -139,6 +139,6 @@ const Navbar = () => {
       </div> 
     </div>
   );
-};
+}
 
 export default Navbar

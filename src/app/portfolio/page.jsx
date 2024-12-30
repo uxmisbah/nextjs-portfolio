@@ -114,6 +114,6 @@ const PortfolioPage = () => {
       </div>
     </motion.div>
   );
-};
+}
 
 export default PortfolioPage;

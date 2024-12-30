@@ -31,7 +31,7 @@ const ContactPage = () => {
           setError(true);
         }
       );
-  };
+  }
 
   return (
     <motion.div
@@ -97,6 +97,6 @@ const ContactPage = () => {
       </div>
     </motion.div>
   );
-};
+}
 
 export default ContactPage;
