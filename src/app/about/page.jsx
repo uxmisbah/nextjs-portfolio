@@ -39,13 +39,13 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Hi, I'm Misbah 👋, an aspiring frontend developer with a passion for crafting engaging and user-friendly web experiences. I enjoy bringing creative ideas to life on the web.
+            Hi, I am Misbah 👋 an aspiring frontend developer with a passion for crafting engaging and user-friendly web experiences. I enjoy bringing creative ideas to life on the web.
             Currently diving into full-stack development, I aim to build dynamic and efficient web applications.
-            Outside of coding, I'm a fitness enthusiast 🏋️‍♂️ who loves hitting the gym regularly and a proud foodie 🍽️—nothing makes me happier than a plate of delicious Biryani 😍.
+            Outside of coding, I am a fitness enthusiast 🏋️‍♂️ who loves hitting the gym regularly and a proud foodie 🍽️—nothing makes me happier than a plate of delicious Biryani 😍.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-            Let's connect and create something amazing together!
+            Let us connect and create something amazing together!
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
