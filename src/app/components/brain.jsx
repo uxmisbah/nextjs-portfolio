@@ -1619,6 +1619,6 @@ const Brain = ({ scrollYProgress }) => {
       </svg>
     </div>
   );
-};
+}
 
 export default Brain;
