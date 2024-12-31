@@ -858,7 +858,6 @@ const Brain = ({ scrollYProgress }) => {
                     id="Fill-196"
                   />
                 </g>
-                <Link href="https://lama.dev">
                   <g
                     id="rs-cog8"
                     transform="translate(211.549 164.6)"
@@ -874,7 +873,6 @@ const Brain = ({ scrollYProgress }) => {
                       // transition={{duration:2}}
                     />
                   </g>
-                </Link>
                 <g id="rs-connector1" transform="translate(183 128.274)">
                   <g
                     id="Group-3"
